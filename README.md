@@ -1,6 +1,6 @@
 # CNN
 
-code for three different CNN networks namely:
-AlexNet
-LeNet
+code for three scaled-down CNN networks namely:
+AlexNet,
+LeNet,
 VGGNet
